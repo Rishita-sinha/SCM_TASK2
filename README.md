@@ -2,3 +2,4 @@
 .close
 .abc
 readme
+.xyz
