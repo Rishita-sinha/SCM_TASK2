@@ -3,3 +3,5 @@
 .abc
 readme
 .xyz
+scmproject
+done deleted
